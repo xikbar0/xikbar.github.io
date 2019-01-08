@@ -1,0 +1,188 @@
+SNEIUnifiedFooter._upfGetJsonResult({
+    "footer": [
+        {
+            "id":"learnMoreLinks",
+            "title":"learn more",
+            "titleId":"header_LearnMore",
+            "list":[
+            {
+                "link":
+                {
+                    "id":"footerLink_AboutUs",
+                    "label":"about us",
+                    "url":"https://www.playstation.com/network/legal/contact-us/"
+                }
+            },
+            {
+                "link":
+                {
+                    "id":"footerLink_RecentNews",
+                    "label":"recent news",
+                    "url":"http://www.sonyentertainmentnetwork.com/us-en/news-and-events"
+                }
+            },
+            {
+                "link":
+                {
+                    "id":"footerLink_Blog",
+                    "label":"blog",
+                    "url":"http://blog.sonyentertainmentnetwork.com"
+                }
+            },
+            {
+                "link":
+                {
+                    "id":"footerLink_Careers",
+                    "label":"careers",
+                    "url":"http://www.sonyentertainmentnetwork.com/careers"
+                }
+            }]
+        },
+        {
+            "id":"servicesLinks",
+            "title":"services",
+            "titleId":"header_Services",
+            "list":[
+            {
+                "link":
+                {
+                    "id":"footerLink_Music",
+                    "label":"Music",
+                    "url":"http://www.playstationmusic.com/spotify"
+                }
+            },
+            {
+                "link":
+                {
+                    "id":"footerLink_VideoOnDemand",
+                    "label":"Movies",
+                    "url":"https://store.sonyentertainmentnetwork.com/#!/en-us/home/movies"
+                }
+            },
+            {
+                "link":
+                {
+                    "id":"footerLink_TVShows",
+                    "label":"TV Shows",
+                    "url":"https://store.sonyentertainmentnetwork.com/#!/en-us/home/tv"
+                }
+            },
+            {
+                "link":
+                {
+                    "id":"footerLink_PSN",
+                    "label":"Games",
+                    "url":"https://store.sonyentertainmentnetwork.com/#!/en-us/home/games"
+                }
+            },
+            {
+                "link":
+                {
+                    "id":"footerLink_PlayMemoriesOnline",
+                    "label":"Personal Photos & Videos",
+                    "url":"http://www.sonyentertainmentnetwork.com/us-en/pmo"
+                }
+            }]
+        },
+        {
+            "id":"accountLinks",
+            "title":"account",
+            "titleId":"header_Account",
+            "list":[
+            {
+                "link":
+                {
+                    "id":"footerLink_CreateAnAccount",
+                    "label":"create an account",
+                    "url":"https://account.sonyentertainmentnetwork.com/reg/account/create-account!input.action?request_locale=en_US"
+                }
+            },
+            {
+                "link":
+                {
+                    "id":"footerLink_AccountManagement",
+                    "label":"account management",
+                    "url":"https://account.sonyentertainmentnetwork.com/cam/devices/device-list.action?request_locale=en_US"
+                }
+            }]
+        },
+        {
+            "id":"legalLinks",
+            "title":"legal",
+            "titleId":"header_Legal",
+            "list":[
+            {
+                "link":
+                {
+                    "id":"footerLink_TermsOfService",
+                    "label":"terms of service",
+                    "url":"https://www.playstation.com/network/legal/terms-of-service/"
+                }
+            },
+            {
+                "link":
+                {
+                    "id":"footerLink_PrivacyPolicy",
+                    "label":"privacy policy",
+                    "url":"https://www.playstation.com/network/legal/privacy-policy/"
+                }
+            },
+            {
+                "link":
+                {
+                    "id":"footerLink_CAPrivacyPolicy",
+                    "label":"your california privacy rights",
+                    "url":"http://www.playstation.com/en-us/legal/privacy-policy#california"
+                }
+            },
+            {
+                "link":
+                {
+                    "id":"footerLink_HealthWarnings",
+                    "label":"health warnings",
+                    "url":"https://www.playstation.com/network/legal/health-warnings/"
+                }
+            },
+            {
+                "link":
+                {
+                    "id":"footerLink_ContactUs",
+                    "label":"contact us",
+                    "url":"https://www.playstation.com/network/legal/contact-us/"
+                }
+            },
+            {
+                "link":
+                {
+                    "id":"footerLink_More",
+                    "label":"more...",
+                    "url":"https://www.playstation.com/network/legal/ratings/"
+                }
+            }]
+        },
+        {
+            "id":"helpLinks",
+            "title":"help",
+            "titleId":"header_Help",
+            "list":[
+            {
+                "link":
+                {
+                    "id":"footerLink_CustomerSupport",
+                    "label":"customer support",
+                    "url":"https://support.us.playstation.com/"
+                }
+            },
+            {
+                "link":
+                {
+                    "id":"footerLink_Maintenance",
+                    "label":"maintenance",
+                    "url":"https://status.playstation.com/en-us/"
+                }
+            }]
+        }
+    ],
+    "browserWarningContent":"For the best experience on the Sony Network Entertainment website, please update your browser to the latest version. Click <a id=\"browserTellMeMoreLink\" href=\"https://account.sonyentertainmentnetwork.com/\" target=\"_blank\">here</a> to learn how."
+
+});
